@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fc182784d2cf2acb6a2fdb4964bed4d2",
+        "name": "ErythemaMultiforme5.jpg",
+        "path": "file:C:/Users/Jagan%20Rajan/Desktop/yolo_structure/Data/Source_Images/Training_Images/ErythemaMultiforme5.jpg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6ZR78YTJU",
+            "type": "RECTANGLE",
+            "tags": [
+                "ErythemaMultiforme"
+            ],
+            "boundingBox": {
+                "height": 397.78217821782175,
+                "width": 281.1148272017837,
+                "left": 283.9687848383501,
+                "top": 107.33168316831683
+            },
+            "points": [
+                {
+                    "x": 283.9687848383501,
+                    "y": 107.33168316831683
+                },
+                {
+                    "x": 565.0836120401339,
+                    "y": 107.33168316831683
+                },
+                {
+                    "x": 565.0836120401339,
+                    "y": 505.1138613861386
+                },
+                {
+                    "x": 283.9687848383501,
+                    "y": 505.1138613861386
+                }
+            ]
+        },
+        {
+            "id": "4mQSjonwN",
+            "type": "RECTANGLE",
+            "tags": [
+                "ErythemaMultiforme"
+            ],
+            "boundingBox": {
+                "height": 353.5841584158415,
+                "width": 285.3957636566332,
+                "left": 753.4448160535118,
+                "top": 285.549504950495
+            },
+            "points": [
+                {
+                    "x": 753.4448160535118,
+                    "y": 285.549504950495
+                },
+                {
+                    "x": 1038.840579710145,
+                    "y": 285.549504950495
+                },
+                {
+                    "x": 1038.840579710145,
+                    "y": 639.1336633663366
+                },
+                {
+                    "x": 753.4448160535118,
+                    "y": 639.1336633663366
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

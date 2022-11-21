@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "03df9d56a53abb1d6dbdd14d3f05c5b0",
+        "name": "infec6.jpg",
+        "path": "file:C:/Users/Jagan%20Rajan/Desktop/yolo_structure/Data/Source_Images/Training_Images/infec6.jpg",
+        "size": {
+            "width": 259,
+            "height": 194
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "V-lZ_UFqJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "ErythemaInfectiosum"
+            ],
+            "boundingBox": {
+                "height": 148.66993464052288,
+                "width": 112.53977968176254,
+                "left": 63.729612913096695,
+                "top": 11.411764705882351
+            },
+            "points": [
+                {
+                    "x": 63.729612913096695,
+                    "y": 11.411764705882351
+                },
+                {
+                    "x": 176.26939259485923,
+                    "y": 11.411764705882351
+                },
+                {
+                    "x": 176.26939259485923,
+                    "y": 160.08169934640523
+                },
+                {
+                    "x": 63.729612913096695,
+                    "y": 160.08169934640523
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> RASKIN</title>
+    <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap'rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap' rel='stylesheet' type='text/css'>
+  
+    <link rel="stylesheet" href="../static/style2.css">
+    </head>
+    <style>
+        .header {	
+                    top:0;	
+                    margin:0px;
+                    left: 0px;
+                    right: 0px;
+                    position: fixed;
+                    background-color: #28272c;
+                    color: white;
+                    box-shadow: 0px 8px 4px grey;
+                    overflow: hidden;
+                    padding-left:20px;
+                    font-family: 'Josefin Sans';
+                    font-size: 2vw;
+                    width: 100%;
+                    height:8%;
+                    text-align: center;
+                }
+                .topnav {
+          overflow: hidden;
+          background-color: #333;
+        }
+        
+        .topnav-right a {
+          float: left;
+          color: #f2f2f2;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          font-size: 18px;
+        }
+        
+        .topnav-right a:hover {
+          background-color: #ddd;
+          color: black;
+        }
+        
+        .topnav-right a.active {
+          background-color: #565961;
+          color: white;
+        }
+        
+        .topnav-right {
+          float: right;
+          padding-right:100px;
+        }
+                
+        .Sign In{
+        margin-top:-70px;
+        }
+        body {
+        
+          background-color:#ffffff;
+          background-repeat: no-repeat;
+          background-size:cover;
+          background-position: 0px 0px;
+          }
+        .main{
+            margin-top:100px;
+            text-align:center;
+        }
+        form { margin-left:400px;margin-right:400px;}
+        
+        input[type=text], input[type=email],input[type=number],input[type=password] {
+          width: 100%;
+          padding: 12px 20px;
+          display: inline-block;
+          margin-bottom:18px;
+          border: 1px solid #ccc;
+          box-sizing: border-box;
+        }
+        
+        button {
+          background-color: #28272c;
+          color: white;
+          padding: 14px 20px;
+          margin-bottom:8px;
+          border: none;
+          cursor: pointer;
+          width: 20%;
+        }
+        
+        button:hover {
+          opacity: 0.8;
+        }
+        
+        .cancelbtn {
+          width: auto;
+          padding: 10px 18px;
+          background-color: #f44336;
+        }
+        
+        .imgcontainer {
+          text-align: center;
+          margin: 24px 0 12px 0;
+        }
+        
+        img.avatar {
+          width: 30%;
+          border-radius: 50%;
+        }
+        
+        .container {
+          padding: 16px;
+        }
+        
+        span.psw {
+          float: right;
+          padding-top: 16px;
+          
+        }
+        
+        /* Change styles for span and cancel button on extra small screens */
+        @media screen and (max-width: 300px) {
+          span.psw {
+             display: block;
+             float: none;
+          }
+          .cancelbtn {
+             width: 100%;
+          }
+        }
+          
+        </style>
+    <body>
+
+        <div class="header">    
+            <div style="width:50%;float:left;font-size:2vw;text-align:left;color:white; padding-top:1%">RASKIN</div>
+             <div class="topnav-right" style="padding-top:0.5%;">
+               
+               <a  href="index">Home</a>
+               <a href="login">Sign In</a>
+               <a href="register">Sign Up</a>
+               
+               
+                          
+               
+             </div>  
+           
+             </div>
+        
+        <section>
+            <div class="container">
+                <div class="contactInfo"> 
+                    <div>
+                        <h2>Contact Info</h2>
+                        <ul class="info">
+                            
+                            <li>
+                                <span><img src="../static/img/mail.png"></span>
+                                
+                                <span><a href = "mailto: cse221107@saranathan.ac.in">cse221107@saranathan.ac.in</a></span>
+                            </li>
+                            <li>
+                                <span><img src="../static/img/call.png"></span>
+                                <span>8825600826</span>
+                            </li>
+
+                        </ul>
+                    </div>
+                  
+                </div>
+                    <div class="contactForm">
+                        <h2>Send a Message</h2>
+                        <div class="formBox">
+                        <div class="inputBox w50">
+                            <input type="text" name="" required>
+                            <span>First Name</span>
+                        </div>
+                        <div class="inputBox w50">
+                            <input type="text" required>
+                            <span>Last Name</span>
+                        </div>
+                        <div class="inputBox w50">
+                            <input type="email" required>
+                            <span>Email Address</span>
+                        </div>
+                        <div class="inputBox w50">
+                            <input type="text" required>
+                            <span>Mobile Number</span>
+                        </div>
+                        <div class="inputBox w100">
+                            <textarea required></textarea>
+                            <span>Write your message here...</span>
+                        </div>
+                        <div class="inputBox w100">
+                            <input type="submit" value="Send">
+                        </div>
+                    </div>
+                </div>
+                    
+                    
+             
+        </section>
+    </body>
+</html>

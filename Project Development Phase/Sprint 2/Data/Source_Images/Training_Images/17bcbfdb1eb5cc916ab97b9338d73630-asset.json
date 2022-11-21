@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "17bcbfdb1eb5cc916ab97b9338d73630",
+        "name": "ab7.jpg",
+        "path": "file:C:/Users/Jagan%20Rajan/Desktop/yolo_structure/Data/Source_Images/Training_Images/ab7.jpg",
+        "size": {
+            "width": 242,
+            "height": 209
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HothYpAmc",
+            "type": "RECTANGLE",
+            "tags": [
+                "ErythemaAbigne"
+            ],
+            "boundingBox": {
+                "height": 146.5049019607843,
+                "width": 145.74612129760226,
+                "left": 56.26009344146686,
+                "top": 10.928104575163399
+            },
+            "points": [
+                {
+                    "x": 56.26009344146686,
+                    "y": 10.928104575163399
+                },
+                {
+                    "x": 202.00621473906912,
+                    "y": 10.928104575163399
+                },
+                {
+                    "x": 202.00621473906912,
+                    "y": 157.43300653594773
+                },
+                {
+                    "x": 56.26009344146686,
+                    "y": 157.43300653594773
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

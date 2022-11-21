@@ -1,0 +1,43 @@
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ab4.jpg 73,10,226,135,0
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ab5.jpg 19,40,66,98,0 187,49,239,147,0
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ab6.jpg 151,9,271,139,0
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ab7.jpg 56,11,202,157,0
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ab8.jpg 118,8,190,114,0 5,44,72,147,0
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ab9.jpg 58,87,109,155,0 148,140,231,185,0
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\abigne.jpg 57,89,133,195,0 16,120,53,177,0
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\abigne1.jpg 71,41,117,176,0 152,65,230,177,0
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ErythemaMarginatum1.jpg 270,0,465,88,1 354,41,481,165,1
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ErythemaMarginatum2.jpg 43,10,211,173,1
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ErythemaMultiforme1.jpg 33,96,91,149,2 135,1,210,69,2 207,80,291,156,2 232,1,304,70,2
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ErythemaMultiforme3.jpg 193,53,289,136,2 188,170,279,226,2 72,172,153,280,2
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ErythemaMarginatum3.jpg 15,20,290,243,1 364,127,588,326,1
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ErythemaMultiforme10.jpg 125,210,255,336,2 410,231,567,336,2 442,78,479,137,2 580,216,619,272,2
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ErythemaMultiforme2.jpg 67,0,310,286,2
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Erythemamultiforme4.jpg 22,79,127,166,2 265,3,307,30,2 258,78,320,163,2
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\erythemamultiforme6.png 286,8,504,146,2 394,220,527,359,2 38,153,108,281,2
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ErythemaMultiforme5.jpg 284,107,565,505,2 753,286,1039,639,2
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ErythemaMultiforme8.jpg 94,3,191,135,2 151,309,246,409,2 354,97,593,367,2
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Erythemamultiforme7.jpg 1127,172,1290,464,2 1024,513,1176,860,2 94,132,629,1015,2
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\infec.jpg 42,45,203,148,3
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ErythemaMultiforme9.jpg 86,79,286,298,2 302,16,567,317,2
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\infec1.jpg 75,31,212,163,3
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\infec2.jpg 45,20,119,126,3 153,10,232,114,3
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\infec3.jpg 25,5,147,144,3 157,15,218,126,3
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\infec4.jpg 74,8,133,80,3 185,8,270,78,3
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\infec6.jpg 64,11,176,160,3
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\infec5.jpg 68,5,224,176,3
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\infec7.jpg 36,50,83,97,3 157,55,207,99,3
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mar.jpg 24,5,197,176,1 45,202,116,246,1
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mar2.jpg 21,60,137,157,1 195,20,260,87,1
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mar3.jpg 12,20,250,145,1
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mar1.jpg 23,36,152,158,1
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mar4.jpg 43,0,208,168,1
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mar5.jpg 99,51,186,86,1 120,119,221,199,1
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mig.jpg 91,61,209,142,4
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mig1.jpg 38,81,146,210,4
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mig2.jpg 19,21,193,223,4
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mig3.jpg 33,46,258,145,4
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mig4.jpg 51,28,223,176,4
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mig5.jpg 55,52,147,152,4
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mig6.jpg 52,20,189,140,4
+C:\Users\Admin\Desktop\SKIN\SKIN\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\mig7.jpg 44,87,118,188,4

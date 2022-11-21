@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2077b045b384121f7f2d34149aa9501f",
+        "name": "mar3.jpg",
+        "path": "file:C:/Users/Jagan%20Rajan/Desktop/yolo_structure/Data/Source_Images/Training_Images/mar3.jpg",
+        "size": {
+            "width": 259,
+            "height": 195
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "V-flAFFxv",
+            "type": "RECTANGLE",
+            "tags": [
+                "ErythemaMarginatum"
+            ],
+            "boundingBox": {
+                "height": 124.90196078431372,
+                "width": 237.97416974169744,
+                "left": 12.085870233702337,
+                "top": 20.392156862745097
+            },
+            "points": [
+                {
+                    "x": 12.085870233702337,
+                    "y": 20.392156862745097
+                },
+                {
+                    "x": 250.06003997539977,
+                    "y": 20.392156862745097
+                },
+                {
+                    "x": 250.06003997539977,
+                    "y": 145.2941176470588
+                },
+                {
+                    "x": 12.085870233702337,
+                    "y": 145.2941176470588
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

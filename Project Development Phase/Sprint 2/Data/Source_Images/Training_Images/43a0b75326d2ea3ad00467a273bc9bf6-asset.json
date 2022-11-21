@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "43a0b75326d2ea3ad00467a273bc9bf6",
+        "name": "ErythemaMarginatum1.jpg",
+        "path": "file:C:/Users/Jagan%20Rajan/Desktop/yolo_structure/Data/Source_Images/Training_Images/ErythemaMarginatum1.jpg",
+        "size": {
+            "width": 545,
+            "height": 324
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kG9npgFJz",
+            "type": "RECTANGLE",
+            "tags": [
+                "ErythemaMarginatum"
+            ],
+            "boundingBox": {
+                "height": 88.1425891181989,
+                "width": 194.42586399108137,
+                "left": 270.3734671125975,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 270.3734671125975,
+                    "y": 0
+                },
+                {
+                    "x": 464.7993311036788,
+                    "y": 0
+                },
+                {
+                    "x": 464.7993311036788,
+                    "y": 88.14258911819888
+                },
+                {
+                    "x": 270.3734671125975,
+                    "y": 88.14258911819888
+                }
+            ]
+        },
+        {
+            "id": "p8Uv4BrUK",
+            "type": "RECTANGLE",
+            "tags": [
+                "ErythemaMarginatum"
+            ],
+            "boundingBox": {
+                "height": 124.61538461538463,
+                "width": 127.59197324414716,
+                "left": 353.61204013377926,
+                "top": 40.50949812382739
+            },
+            "points": [
+                {
+                    "x": 353.61204013377926,
+                    "y": 40.50949812382739
+                },
+                {
+                    "x": 481.2040133779264,
+                    "y": 40.50949812382739
+                },
+                {
+                    "x": 481.2040133779264,
+                    "y": 165.124882739212
+                },
+                {
+                    "x": 353.61204013377926,
+                    "y": 165.124882739212
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "034240cfd9f11b71279c155246d6d047",
+        "name": "ErythemaMarginatum2.jpg",
+        "path": "file:C:/Users/Jagan%20Rajan/Desktop/yolo_structure/Data/Source_Images/Training_Images/ErythemaMarginatum2.jpg",
+        "size": {
+            "width": 545,
+            "height": 324
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "7sjtUmq1s",
+            "type": "RECTANGLE",
+            "tags": [
+                "ErythemaMarginatum"
+            ],
+            "boundingBox": {
+                "height": 163.51969981238275,
+                "width": 168.2998885172798,
+                "left": 42.53065774804905,
+                "top": 9.507621951219512
+            },
+            "points": [
+                {
+                    "x": 42.53065774804905,
+                    "y": 9.507621951219512
+                },
+                {
+                    "x": 210.83054626532885,
+                    "y": 9.507621951219512
+                },
+                {
+                    "x": 210.83054626532885,
+                    "y": 173.02732176360226
+                },
+                {
+                    "x": 42.53065774804905,
+                    "y": 173.02732176360226
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

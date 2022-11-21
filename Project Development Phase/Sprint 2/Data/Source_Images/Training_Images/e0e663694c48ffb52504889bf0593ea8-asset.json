@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e0e663694c48ffb52504889bf0593ea8",
+        "name": "mig3.jpg",
+        "path": "file:C:/Users/Jagan%20Rajan/Desktop/yolo_structure/Data/Source_Images/Training_Images/mig3.jpg",
+        "size": {
+            "width": 272,
+            "height": 185
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UeQPckpMK",
+            "type": "RECTANGLE",
+            "tags": [
+                "ErythemaMigrans"
+            ],
+            "boundingBox": {
+                "height": 99.4754098360656,
+                "width": 224.99888517279823,
+                "left": 33.35562987736901,
+                "top": 45.506019467213115
+            },
+            "points": [
+                {
+                    "x": 33.35562987736901,
+                    "y": 45.506019467213115
+                },
+                {
+                    "x": 258.3545150501672,
+                    "y": 45.506019467213115
+                },
+                {
+                    "x": 258.3545150501672,
+                    "y": 144.98142930327867
+                },
+                {
+                    "x": 33.35562987736901,
+                    "y": 144.98142930327867
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
